@@ -42,5 +42,27 @@
     "runPath": "/storage/emulated/0/slot",
     "scriptFile": "/storage/emulated/0/slot/index.js",
     "time": "2026-01-16 13:32:02"
+  },
+  {
+    "phone": "-",
+    "ip": "202.65.234.87",
+    "country": "Indonesia",
+    "region": "East Java",
+    "city": "Surabaya",
+    "isp": "SpaceX Starlink",
+    "org": "SpaceX Starlink",
+    "timezone": "Asia/Jakarta",
+    "latitude": -7.2574,
+    "longitude": 112.752,
+    "os": "android",
+    "arch": "arm64",
+    "hostname": "localhost",
+    "cpu": "unknown",
+    "totalRamGB": "5.61",
+    "nodeVersion": "v25.3.0",
+    "userAgent": "Node.js v25.3.0",
+    "runPath": "/storage/emulated/0/safe_loadtest_project",
+    "scriptFile": "/storage/emulated/0/safe_loadtest_project/index.js",
+    "time": "2026-01-16 14:25:19"
   }
 ]
