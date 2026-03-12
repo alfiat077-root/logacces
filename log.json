@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "phone": "-",
+    "ip": "110.137.210.64",
+    "country": "Indonesia",
+    "region": "Jakarta",
+    "city": "Jakarta",
+    "isp": "PT. TELKOM INDONESIA",
+    "org": "-",
+    "timezone": "Asia/Jakarta",
+    "latitude": -6.2208,
+    "longitude": 106.8403,
+    "os": "linux",
+    "arch": "x64",
+    "hostname": "d6656768-b0a6-4300-98e4-546677322e3e",
+    "cpu": "Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz",
+    "totalRamGB": "62.29",
+    "nodeVersion": "v20.19.5",
+    "userAgent": "Node.js v20.19.5",
+    "runPath": "/home/container",
+    "time": "2026-03-12 15:24:59"
+  }
+]
